@@ -141,6 +141,7 @@ const App = () => {
 
   return (
     <div className={styles.container}>
+      <h1 className={styles.srOnly}>Splitter</h1>
       <Logo />
       <main>
         <div className={styles.inputBox}>

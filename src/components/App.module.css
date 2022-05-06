@@ -117,6 +117,15 @@ main {
   padding: 4rem;
 }
 
+.srOnly {
+  position: absolute;
+  clip: rect(1px 1px 1px 1px);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+}
+
 .tipActive {
   background-color: var(--strong-cyan) !important;
   color: var(--very-dark-cyan) !important;
