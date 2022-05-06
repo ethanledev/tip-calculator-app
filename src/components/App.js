@@ -141,9 +141,9 @@ const App = () => {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.srOnly}>Splitter</h1>
       <Logo />
       <main>
+        <h1 className={styles.srOnly}>Splitter</h1>
         <div className={styles.inputBox}>
           <div className={styles.inputField}>
             <label className={styles.label} htmlFor="bill">
