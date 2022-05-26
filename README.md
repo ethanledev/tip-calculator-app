@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/hieuhmle/tip-calculator-app)
-- Live Site URL: [Live site](https://hieuhmle.github.io/tip-calculator-app)
+- Solution URL: [Github Repo](https://github.com/hieulecoder/tip-calculator-app)
+- Live Site URL: [Live site](https://hieulecoder.github.io/tip-calculator-app)
 
 ## My process
 

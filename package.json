@@ -11,7 +11,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.0"
   },
-  "homepage": "https://hieuhmle.github.io/tip-calculator-app",
+  "homepage": "https://hieulecoder.github.io/tip-calculator-app",
   "scripts": {
     "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
